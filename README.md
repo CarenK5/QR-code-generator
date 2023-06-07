@@ -6,7 +6,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/qr-code-generator.git
+git clone https://github.com/CarenK5/qr-code-generator.git
 Install the required dependencies:
 Copy code
 pip install qrcode
@@ -14,7 +14,7 @@ Usage
 Modify the data variable in the generate_qr_code.py file with the desired data you want to encode in the QR code.
 python
 Copy code
-data = "https://example.com"
+data = "https://open.spotify.com/user/31wrsjsduw5wp2bv4ldn7an3oj6i?si=IWRPXztDQ3usUBqVUnhbrQ&utm_source=copy-link"
 Run the script:
 Copy code
 python generate_qr_code.py
